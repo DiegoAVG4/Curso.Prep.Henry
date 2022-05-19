@@ -9,6 +9,7 @@ const nuevoNum = '4';
 // Crea una variable booleana:
 const nuevoBool = 'true';
 
+
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - '5' === 5;
 
@@ -27,21 +28,22 @@ const nuevoModulo = 21 % 5 === '4.2';
 
 function devolverString(str) {
   // "Return" la string provista: str
-  // Tu código:
-  
+  // Tu código: 
+  return str;
 }
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
+  return x + y;
   
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  
+
 }
 
 function multiplica(x, y) {
